@@ -9,7 +9,7 @@ ___
 データベース：Microsoft SQLServer 2019 Express CU8  
 データベース接続：Microsoft JDBC Driver 8.4.1 for SQL Server  
 -データベース管理ツール：Microsoft SQL Server Management Studio 18.7.1  
-O/R マッパー フレームワーク：Hibernate ORM 5.4.22 Final
+O/R マッパー フレームワーク：Hibernate ORM 5.4.23 Final
 ```
 
 ![Img](ReadmeImg.png)
