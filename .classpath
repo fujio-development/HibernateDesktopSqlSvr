@@ -23,7 +23,7 @@
 	<classpathentry kind="lib" path="lib/mssql-jdbc-8.4.1.jre11.jar"/>
 	<classpathentry kind="lib" path="lib/byte-buddy-1.10.17.jar"/>
 	<classpathentry kind="lib" path="lib/jboss-logging-3.4.1.Final.jar"/>
-	<classpathentry kind="lib" path="lib/hibernate-core-5.4.24.Final.jar"/>
 	<classpathentry kind="lib" path="lib/javassist-3.27.0-GA.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate-core-5.4.25.Final.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
