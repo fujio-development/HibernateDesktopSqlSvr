@@ -6,10 +6,10 @@ ___
 開発環境：Eclipse 2020-12 R(4.18.0) Pleiades  
 言語：Java 11
 デベロッパーSDK：Adopt OpenJDK 11.0.10 + 9
-データベース：Microsoft SQLServer 2019 Express CU8(21/01/12)  
+データベース：Microsoft SQLServer 2019 Express CU9  
 データベース接続：Microsoft JDBC Driver 9.2.0 for SQL Server  
 -データベース管理ツール：Microsoft SQL Server Management Studio 18.8  
-O/R マッパー フレームワーク：Hibernate ORM 5.4.27 Final
+O/R マッパー フレームワーク：Hibernate ORM 5.4.28 Final
 ```
 
 ![Img](ReadmeImg.png)
